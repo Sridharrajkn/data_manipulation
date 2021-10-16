@@ -1,5 +1,9 @@
 # data_manipulation
-data manipulation using python with pandas
+data manipulation using python with pandas and numpy
+
+# To Know
+1. numpy ---> https://www.w3schools.com/python/numpy/numpy_intro.asp
+2. pandas --> https://www.w3schools.com/python/pandas/pandas_intro.asp
 
 # loading dataset from .csv files into a list or array in python
 * I will be using the kaggle heart disesase uci dataset which ca be found in heart_disease_uci directory
