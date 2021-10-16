@@ -35,5 +35,9 @@ data manipulation using python with pandas and numpy
 ## Visual Exploration
 
 ### Basic Plots
-1. 
+1. bar
+2. scatter
+3. line
+
+
 
